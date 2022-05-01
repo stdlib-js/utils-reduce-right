@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-reduce-right",
-  "version": "0.0.0",
+  "version": "0.0.8",
   "description": "Apply a function against an accumulator and each element in an array while iterating from right to left and return the accumulated result.",
   "license": "Apache-2.0",
   "author": {
