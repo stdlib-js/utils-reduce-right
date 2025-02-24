@@ -201,7 +201,7 @@ var mean = out / ctx.count;
 var filledarrayBy = require( '@stdlib/array-filled-by' );
 var discreteUniform = require( '@stdlib/random-base-discrete-uniform' ).factory;
 var naryFunction = require( '@stdlib/utils-nary-function' );
-var add = require( '@stdlib/math-base-ops-add' );
+var add = require( '@stdlib/number-float64-base-add' );
 var array = require( '@stdlib/ndarray-array' );
 var reduceRight = require( '@stdlib/utils-reduce-right' );
 
@@ -283,7 +283,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
