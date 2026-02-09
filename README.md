@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reduceRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reduce-right@esm/index.mjs';
+import reduceRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reduce-right@v0.2.2-esm/index.mjs';
 ```
 
 #### reduceRight( arr, initial, reducer\[, thisArg ] )
@@ -190,7 +190,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@esm/index.mjs';
 import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-add@esm/index.mjs';
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@esm/index.mjs';
-import reduceRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reduce-right@esm/index.mjs';
+import reduceRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reduce-right@v0.2.2-esm/index.mjs';
 
 function fill( i ) {
     var rand = discreteUniform( -10*(i+1), 10*(i+1) );
